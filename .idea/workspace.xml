@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1591d9be-c9be-4524-a278-d70d929aafcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shuQA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\xampp\htdocs\shuQA\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ccYCsxnjq7QOgbUVdNnoZ4Ok0T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\xampp\htdocs\shuQA" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1591d9be-c9be-4524-a278-d70d929aafcf" name="Default Changelist" comment="" />
+      <created>1590829223738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590829223738</updated>
+      <workItem from="1590829226526" duration="2973000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1590830889770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590830889770</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1590831369891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590831369891</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="none" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Deployment" timestamp="1590832995449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1590832995449" />
+    <state x="393" y="7" width="916" height="814" key="CommitChangelistDialog2" timestamp="1590833004736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="7" width="916" height="814" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590833004736" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1590830946858">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590830946858" />
+    <state x="651" y="305" width="258" height="213" key="Github.ShareDialog" timestamp="1590830988858">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="651" y="305" width="258" height="213" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1590830988858" />
+    <state x="604" y="335" key="NewPhpFileDialog" timestamp="1590829245324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="335" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1590829245324" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1590829720864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590829720864" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1590831313833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590831313833" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590829231417">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590829231417" />
+    <state x="604" y="144" key="ftp.server.browser" timestamp="1590832970988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="144" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1590832970988" />
+  </component>
+</project>
